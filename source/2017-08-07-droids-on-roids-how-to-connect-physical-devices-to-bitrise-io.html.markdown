@@ -6,7 +6,7 @@ authors: Anna Bátki|anna.batki@bitrise.io
 overlay: /images/droids-on-roids-overlay.jpg
 ---
 
-_Guest blog by Karol Wrótniak, mobile developer at Droids on Roids. The original post appeared on [Droids on Roids blog](https://www.thedroidsonroids.com/blog/how-to-connect-physical-devices-to-bitrise-io)_. 
+_Guest blog by Karol Wrótniak, mobile developer at Droids On Roids. The original post appeared on [Droids On Roids blog](https://www.thedroidsonroids.com/blog/how-to-connect-physical-devices-to-bitrise-io)_. 
 
 >[Droids On Roids](https://www.thedroidsonroids.com/) is a full-service iOS, Android and backend development company from Poland offering sophisticated mobile solutions from design to store release and building high-performing mobile apps for start-ups and great brands. With 50+ mobile applications in their portfolio, Droids on Roids' solutions serve millions of users across platforms and channels.
 
