@@ -110,6 +110,6 @@ This is what a finished build looks like on Bitrise. Pretty cool, eh?
 
 As you can see there is an iOS.ipa and an Android.apk generated in one build! Next time you'll use this, it'll be as quick as all your other apps! :)
 
-__Do you have any more questions? [There is a more detailed description of Unity projects available](https://discuss.bitrise.io/t/how-to-build-a-unity-project/1317).__
+__Do you have any more questions? [There is a more detailed description of Unity projects available](https://discuss.bitrise.io/t/how-to-build-a-unity-project/1317?utm_source=bitriseblog&utm_medium=web&utm_campaign=17w32unity).__
 
 Happy building, happy gaming! 🚀
