@@ -98,7 +98,7 @@ You are almost done :)
 
 __On your phone:__
 
-0. Install the IFTTT application and log in ([Google Play](https://play.google.com/store/apps/details?id=com.ifttt.ifttt), [App Store](https://itunes.apple.com/app/apple-store/id660944635?mt=8)
+0. Install the IFTTT application and log in ([Google Play](https://play.google.com/store/apps/details?id=com.ifttt.ifttt), [App Store](https://itunes.apple.com/app/apple-store/id660944635?mt=8))
 1. Add widget to your home screen: IFTTT small
 2. Choose your applet (e.g. Deploy with Bitrise or Big Deploy Button)
 3. Press it and 🎉
