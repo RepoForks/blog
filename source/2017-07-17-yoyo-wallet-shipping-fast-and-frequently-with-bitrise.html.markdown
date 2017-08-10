@@ -6,7 +6,7 @@ authors: Anna Bátki|anna.batki@bitrise.io
 overlay: /images/Yoyo_Cafe_Nero.png
 ---
 
-_Guest blog by Tariq Patel, head of engineering at Yoyo Wallet. The original post appeared on [Yoyo Engineering](https://engineering.yoyowallet.com/shipping-fast-and-frequently-with-bitrise-ci-1d9f310dc5cc)_
+_Guest blog by Tariq Patel, head of engineering at Yoyo Wallet. The original post appeared on [Yoyo Engineering](https://engineering.yoyowallet.com/shipping-fast-and-frequently-with-bitrise-ci-1d9f310dc5cc)_.
 
 >[Yoyo Wallet](http://yoyowallet.com/) is the fastest growing and largest multi-retailer mobile wallet in Europe. Now in its 4th year, Yoyo Wallet powers retailer experiences across the UK on the high street, in universities and in corporate locations. It was recently chosen by Marketing Week as one of the Top 100 Disruptor Brands and by KPMG as one of 50 FinTechs to watch globally.
 
