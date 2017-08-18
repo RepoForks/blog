@@ -3,7 +3,7 @@ title: New export options Plist in Xcode 9
 date: 2017-08-15 12:54 UTC
 tags: xcode, how-to
 authors: Anna Bátki|anna.batki@bitrise.io
-overlay: /images/og_default.png
+overlay: /images/xcode9_blog.jpg
 ---
 
 Even if Xcode 9 is still in beta, Bitrise already has an Xcode 9 stack, which is used by many of you in experiencing mood. 👨‍🔬

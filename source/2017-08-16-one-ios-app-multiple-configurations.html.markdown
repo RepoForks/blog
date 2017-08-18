@@ -3,7 +3,7 @@ title: One iOS app, multiple configurations
 date: 2017-08-16 9:23 UTC
 tags: how-to, iOS
 authors: Anna Bátki|anna.batki@bitrise.io
-overlay: /images/og_default.png
+overlay: /images/whitelabel.jpg
 ---
 
 Exporting your IPA with multiple configurations is a great tool in the developer's hand:
