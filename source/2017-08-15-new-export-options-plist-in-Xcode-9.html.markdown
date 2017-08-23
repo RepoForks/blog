@@ -6,7 +6,8 @@ authors: Anna Bátki|anna.batki@bitrise.io
 overlay: /images/xcode9_blog.jpg
 ---
 
-Even if Xcode 9 is still in beta, Bitrise already has an Xcode 9 stack, which is used by many of you in experiencing mood. 👨‍🔬
+Even if Xcode 9 is still in beta, Bitrise already has an Xcode 9 stack, which is used by many of you in experimenting mood. 👨‍🔬
+
 However, several builds fail due to the new export option. We are working on an update for the `Xcode Archive` step to automatically detect this new option. Until we release the fix, let's see the problem and the solution.
 
 #Before Xcode 9
