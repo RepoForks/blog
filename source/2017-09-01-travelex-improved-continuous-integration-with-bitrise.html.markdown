@@ -6,7 +6,7 @@ authors: Anna Bátki|anna.batki@bitrise.io
 overlay: /images/travelex_blogpost.jpg
 ---
 
-_Guest blog by Rémy Chanteney, lead of engineering at Travelex. The original post appeared on [Travelex Tech Blog](https://blog.travelex.io/bitrise-travelex-digital-f3388019bae)_.
+_Guest blog by Rémy Chantenay, lead of engineering at Travelex. The original post appeared on [Travelex Tech Blog](https://blog.travelex.io/bitrise-travelex-digital-f3388019bae)_. 
 
 >From a software engineering (mobile oriented) background, __Rémy Chanteney__ recently transitioned to lead of engineering at Travelex. Passionate about everything related to mobile, cloud infrastructure and disruptive technologies.
 With products like [Wire](https://wire.travelex.co.uk/) or [Travelex Money](https://www.travelex.co.uk/services/travelex-money-app) and other B2B projects, __Travelex__ digital is striving to innovate in the international money transfer ecosystem.
